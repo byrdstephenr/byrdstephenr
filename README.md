@@ -1,0 +1,4 @@
+- Hi, I’m Stephen Byrd
+- I’m interested in Data Science, Data Analytics, and Data Engineering. 
+- I’m currently learning Airflow, Power BI, Databricks, Knime, and continuing education in Python, SQL, and R. 
+- 📫 How to reach me on my Linkedin Profile: www.linkedin.com/in/stephen-byrd-r
